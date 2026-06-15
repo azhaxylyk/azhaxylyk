@@ -1,5 +1,5 @@
 # Hi, I'm azhaxylyk!
-I'm a budding developer with experience in Python, Golang, HTML, CSS, and currently working on my thesis project. Below are my pet projects that showcase my learning journey.
+I'm an aspiring QA Engineer with a strong technical background in Python, Golang, HTML, CSS, and web development. I focus on manual testing, API validation, and building a foundation in test automation. I'm currently transitioning into QA and expanding my skills in testing methodologies, test design, and automation tools.
 
 
 ### My Projects:
